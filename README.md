@@ -14,6 +14,3 @@ The objective of this project is to provide an opportunity for developers to pra
 2. **CALLBACKS**
 3. **ARRAY**
 4. **MOCHA**
-
-## Author
-Created by Isadora Mutarelli
